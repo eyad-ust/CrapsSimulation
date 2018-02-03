@@ -142,6 +142,6 @@ public class TestCraps
 		StdOut.println("Done.");
 
 		test.reportStats(); // report the output
-
+ 
 	}
 }
